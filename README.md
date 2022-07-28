@@ -8,21 +8,21 @@ The purpose of the analysis is to provide temperature data for the months of Jun
 	
 	* Looking at the list of the June temperatures, the temperature is consistently in the mid to upper 70's. 
 
-	![june_temps](Images/june_temps.png)
+![june_temps](Images/june_temps.png)
  
 	* The June statistics table shows the average temperature is 74, the minimum is 64 and the maximum is 85.
 
-	![june_statistics](Images/june_statisctics.png)
+![june_statistics](Images/june_statistics.png)
 
 ## **December Temps
 
 	* The temperature for the month of December fluctuates between the mid to upper 60's and upper to mid 70's.
 
-	![december_temps](Images/december_temps)
+![december_temps](Images/december_temps)
 
 	* The December statistics show the average temperature is 71, the minimum is 56 and the maximum is 83	
 
-	![december_statistics(Images/december_statistics)
+![december_statistics(Images/december_statistics)
 
 	
 # **Summary
@@ -32,6 +32,6 @@ The purpose of the analysis is to provide temperature data for the months of Jun
 	
 	Besides the temperatures, it is also important to consider the precipitation for both months. An additional analysis for June shows the average precipitation for the month is 0.13 and 0.21 for December. The maximum for June is 4.43 and 6.42 for December, overall the precipitation is minimal and the surf and ice cream shop should be able to remain open for the majority of both months. 
 
-	![June_Precip](Images/June_Precip.png)       ![December_Precip](Images/December_Precip.png)
+![June_Precip](Images/June_Precip.png)   ![December_Precip](Images/December_Precip.png)
 	
 
