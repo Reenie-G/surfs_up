@@ -22,7 +22,7 @@ The purpose of the analysis is to provide temperature data for the months of Jun
 
 * The December statistics show the average temperature is 71, the minimum is 56 and the maximum is 83	
 
-![december_statistics(Images/december_statistics.png)
+![december_statistics](Images/december_statistics.png)
 
 	
 # Summary
